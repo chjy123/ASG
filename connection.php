@@ -2,11 +2,11 @@
 
 
 
-$nama_host="localhost";
+$nama_host="asg.chaw264c6t0p.us-east-1.rds.amazonaws.com";
 
-$user_sql="root";
+$user_sql="admin";
 
-$pass_sql="";
+$pass_sql="12345678";
 
 $nama_db="e-commerce";
 
