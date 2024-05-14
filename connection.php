@@ -8,7 +8,7 @@ $user_sql="admin";
 
 $pass_sql="12345678";
 
-$nama_db="e-commerce";
+$nama_db="e_commerce";
 
 
 $condb=new mysqli($nama_host,$user_sql,$pass_sql,$nama_db);
